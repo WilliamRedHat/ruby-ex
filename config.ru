@@ -227,6 +227,7 @@ pre {
 <section class='container'>
           <hgroup>
             <h1>OpenShift on Azure @MSexperience</h1>
+            Ceci est une mise à jours en direct ...
           </hgroup>
 
 
@@ -234,17 +235,7 @@ pre {
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
               <h2>Deploying code changes</h2>
-              
                 <h2>Development Resources</h2>
-                  <ul>
-                    <li><a href="http://docs.openshift.org/latest/welcome/index.html">OpenShift Documentation</a></li>
-                    <li><a href="https://github.com/openshift/origin">Openshift Origin GitHub</a></li>
-                    <li><a href="https://github.com/openshift/source-to-image">Source To Image GitHub</a></li>
-                    <li><a href="http://docs.openshift.org/latest/using_images/s2i_images/ruby.html">Getting Started with Ruby on OpenShift</a></li>
-                    <li><a href="http://stackoverflow.com/questions/tagged/openshift">Stack Overflow questions for OpenShift</a></li>
-                    <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
-                  </ul>
-
 
           </section>
         </div>
